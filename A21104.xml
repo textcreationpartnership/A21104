@@ -1,0 +1,717 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeralls of that worthie and worshipfull gentleman, Master Thomas Dutton of Dutton, Esquire who yeelded to nature the 28. of December. By Richard Eaton Bachelour of Diuinitie, and pastor of Great Budworth in Cheshire.</title>
+            <author>Eaton, Richard, 1563?-1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21104</idno>
+            <idno type="STC">STC 7468</idno>
+            <idno type="STC">ESTC S100229</idno>
+            <idno type="EEBO-CITATION">99836075</idno>
+            <idno type="PROQUEST">99836075</idno>
+            <idno type="VID">319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 319)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 781:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeralls of that worthie and worshipfull gentleman, Master Thomas Dutton of Dutton, Esquire who yeelded to nature the 28. of December. By Richard Eaton Bachelour of Diuinitie, and pastor of Great Budworth in Cheshire.</title>
+                  <author>Eaton, Richard, 1563?-1617.</author>
+               </titleStmt>
+               <extent>[6], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Legatt for Samuel Man dwelling at the signe of the Ball in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1616.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Running title reads: A funerall sermon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:319:1"/>
+            <pb facs="tcp:319:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT THE FVNERALLS OF THAT WORTHIE AND WOR<g ref="char:EOLhyphen"/>SHIPFVLL GENTLEMAN, MASTER <hi>Thomas Dutton</hi> of <hi>Dutton,</hi> Eſquire, who yeelded to nature the 28. of <hi>December.</hi>
+            </p>
+            <p>By RICHARD EATON Bachelour of Diuinitie, and Paſtor of Great Budworth in Cheſhire.</p>
+            <q>
+               <bibl>Deut. 39. 29.</bibl>
+               <p>Oh that they were wiſe, then they would vnderſtand this: They would conſider their latter end.</p>
+            </q>
+            <figure/>
+            <p>LONDON, Printed by <hi>Iohn Legatt</hi> for <hi>Samuel Man</hi> dwelling at the ſigne of the Ball in <hi>Pauls</hi> Church-yard. 1616.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:319:2"/>
+            <pb facs="tcp:319:2"/>
+            <head>TO THE HONOVRABLE AND HOPEFVLL YOVNG GENTLEMAN, SIR GILBERT GERRARD, KNIGHT OF the Noble order of the Bath: The <hi>Ladie Elenour</hi> his wife; together with her right Worſhipfull mother <hi>Miſtris Thomaſin Dutton,</hi> all increaſe of true happineſſe.</head>
+            <p>
+               <seg rend="decorInit">S</seg>YR, being called vpon to prepare this ſermon for an impreſſion: and finding a neceſſitie laid vpon me, to ſatisfie the importunitie of ſome friends, it came in<g ref="char:EOLhyphen"/>to my minde to tender the ſame to you. And I doe more then hope that you will kindly accept it from me, and entertaine it as a teſtimonie of my loue: becauſe it was both preached in your hearing; and at the funerall of that worthy and Worſhipfull gentleman <hi>Maſter Dutton</hi> your fa<g ref="char:EOLhyphen"/>ther in law. And I am the rather incouraged to commend it to your vſe, and to write your name (as it were) in the front of it; becauſe albeit you liued not vnder my Miniſterie, yet in as much as out of that part of your faire inheritance, which lyeth here, I receiue ſome part of my maintenance and ſuſtentati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, I muſt needs thinke it my duty, to beſtow ſome ſpirituall gift; by which I might euidence my care of your ſoules health, and ſomething further you, in your paſſage towards that
+<pb facs="tcp:319:3"/> Countrey which I truſt you ſeeke. Let it not diſpleaſe y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therefore, that I haue preſented you with theſe few notes; bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vouchſafe them a roome of lodging among your bookes. I con<g ref="char:EOLunhyphen"/>feſſe in this ſcribling age, many are carried with a buſie h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mour, making the times ſurfeit with their needleſſe papers. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be loath that anie man who hath in him anie true worth and is of a right religious vnderſtanding, ſhould ſo thinke of me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherefore to cleere my ſelfe to euery ſober iudgement, this I ſay; I was drawen into this courſe in preſenting this ſermon to publique view: by the earneſt requeſt of ſome friends, and by the good approuement of ſundrie fearing God. The matter of this ſermon is excellent, if the workemanſhip were ſuteable, I might boldly ſay, It were no diſparagement to you to afford your patronage, and to haue your name prefixed. Whatſoeuer my defect maie be, I beſeech you be pleaſed to accept from me this ſmall preſent: ſmall, not in reſpect of the matter of it, for no man can treate of a more worthie ſubiect: But in regard of the manner of handling.</p>
+            <p>Accept it I ſaie, as an vndiſſembled argument of the ſinceri<g ref="char:EOLhyphen"/>tie of my affection, as a teſtimonie of my well wiſhing to your ſoule, and as a pledge of my ſetled purpoſe to labour to deſerue your loue: And to be a continuall petitioner to the throne of grace, that you and your good Ladie, your Worſhipfull mother in law, with the reſt of your line and familie maie be kept by the power of God, through faith, vnto ſaluation. From Great Budworth in Cheſhire.</p>
+            <closer>
+               <signed>Yours in all readineſſe to doe you my beſt ſeruice in Chriſt Ieſus, RICHARD EATON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:319:3"/>
+            <epigraph>
+               <bibl>PSAL. 90. 12.</bibl>
+               <q>Teach vs ſo to number our daies, that we maie applie our hearts to wiſedome.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalme was compiled by <hi>Moſes,</hi> at what time, the ſpies returning from the land of Canaan, diſcouraged their brethren; and the Lord for the murmuring of the people, pronounced, that all aboue twenty yeares old (<hi>Caleb</hi> and <hi>Ioſua</hi> only excepted) ſhould die in the wildernes. Now whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Moſes</hi> heard this general ſentence of death denounced both againſt himſelfe, and all thoſe that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame out of Egypt with him, he frameth this Pſalme, and praieth thus for him ſelfe and all the reſt. But I may not inſiſt in generalls: the foundation of my ſpeech ſhall onely reſt vpon this 12 verſe. The words are ſo plaine and manifeſt, that I may ſay of this Scripture, as <hi>Auguſtin</hi> ſpeaketh, <hi>Deſiderat auditorem,</hi> 
+               <note place="margin">Tract. 50. in Iohannem.</note> 
+               <hi>magis quàm expoſitorem,</hi> It requires rather an attentiue hearer, then a skilfull expoſitor.</p>
+            <p>I will draw the ſubſtance of mine intended ſpeech vnto two generall heads: the firſt a prayer of <hi>Moſes, Teach vs ſo to number our daies.</hi> The ſecond a reaſon why he prayed thus, <hi>That wee maie applie our hearts to wiſedome.</hi>
+            </p>
+            <p>Out of theſe two generall heads, I will diſtinguiſh fiue ſeuerall concluſions.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Death is the hauen of euery man. <hi>Moſes</hi> ma<g ref="char:EOLhyphen"/>keth
+<pb n="2" facs="tcp:319:4"/> this prayer in the plurall number.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Mans time is ſet, and his bounds appointed which he cannot paſſe. <hi>Peach vs to number our daies;</hi> there is a number of dayes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Mans time is ſhort: <hi>Moſes</hi> mentioneth not yeeres, nor monethes, nor weekes, but dayes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Although mans time be ſhort, yet he remembreth it not; for we are apt to forget death.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> If we could remember death, it would cauſe vs to apply our hearts vnto wiſedome.</p>
+            <p>Thus you ſee how this Scripture naturally bran<g ref="char:EOLhyphen"/>cheth and deuideth it ſelfe into theſe particulars. I wil not offer any viole<g ref="char:cmbAbbrStroke">̄</g>ce in the handling of this text, I will not ſet any of theſe points vpon the Racke, I will not proffer to ſtretch mine arme higher then my ſtature may carry it; I will not trouble you with Idle curioſities, I will returne therfore to the head of the race, where I firſt began.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> The firſt concluſion to be examined, and the firſt doctrine to be extracted, is this, That death is the hauen of euery man. <hi>What man liueth,</hi> ſaith <hi>Dauid, And</hi> 
+               <note place="margin">Pſal. 89. 48.</note> 
+               <hi>ſhall not ſee death?</hi> The Apoſtle ſaith, <hi>It is appointed vnto all men, to dye once, Heb:</hi> 9. 27. And if we looke into the catalogue of thoſe long liued Fathers before the floud, though ſome of them liued 700. ſome 800. ſome 900, yeers and vpward, yet at length this Epi<g ref="char:EOLhyphen"/>taph was written ouer euery one of their heads, <hi>Mor<g ref="char:EOLhyphen"/>tuus eſt, He died.</hi> Though euery day of our life, were <note place="margin">Gen. 5.</note> as long as the day of <hi>Ioſua,</hi> when the Sun ſtood ſtil in the midſt of the heauen, yet the Sunne will ſet and go <note place="margin">Ioſh. 10. 13.</note> downe, and it will be night at laſt. Euery man muſt ac<g ref="char:EOLhyphen"/>knowledge with <hi>Iob, Corruption is my father, and the worme is my mother:</hi> therefore <hi>Eſay</hi> witneſſeth that <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob 17. 14. Eſay 40. 6.</note> 
+               <hi>All fleſh is graſſe.</hi> All theſe teſtimonies as a cloud of witneſſes, confirme this doctrine. There are alſo two
+<pb n="3" facs="tcp:319:4"/> reaſons to inforce the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> Firſt, all men are duſt in their originall, the matter whereof we are made is the duſt of the earth: And therefore to duſt we muſt againe returne. And this <note place="margin">Gen. 3. 19.</note> reaſon is vſed, Gen. 3. 19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> Secondly, all men haue ſinned, and are depriued of the glory of God. Man at the firſt was created to immortality; and if he had neuer ſinned, he ſhould neuer haue died. But when ſin entred, death followed as the wages doth the worke; as God threatned, Gen. <note place="margin">Gen. 2. 17.</note> 2. 17. And the Apoſtle, Rom. 5. 15 By one man ſinne <note place="margin">Rom. 5. 12.</note> entred into the word, and death by ſinne: And ſo death went ouer all men, in whom all men haue ſinned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> There ſhall be no difference betweene the rich &amp; the poore in the graue: there is a great difference in their life time, in reſpect of honours and houſes, la<g ref="char:cmbAbbrStroke">̄</g>ds and liuings, duties and dignities, and ſuch like exter<g ref="char:EOLhyphen"/>nall priuiledges and prerogatiues: But in the end we ſee that wiſe men and likewiſe the ignorant and foo<g ref="char:EOLhyphen"/>liſh <note place="margin">Pſal. 49. 10.</note> periſh. <hi>Zenacherib</hi> in his Ruffe for a time, made proud challenges, Where is the king of <hi>Hamah,</hi> where <note place="margin">Eſay 37. 13.</note> is the king of <hi>Arpad,</hi> where is the king of <hi>Hena?</hi> kings which he had deſtroyed: And haue the Gods of the nations deliuered their Clients and orators, out of my hands? But a man might ſoone haue aſked him, Where is the king of <hi>Aſhur?</hi> And hath <hi>Niſroch</hi> the God of <hi>Aſſiria,</hi> deliuered <hi>Zenacherib</hi> himſelfe? Looke into the graue and ſhew me, where is <hi>Diues,</hi> &amp; where is <hi>Lazarus?</hi> where is <hi>Alexander</hi> that conquered the whole world, and <hi>Zerxes</hi> that could not number his armie for multitude? where is <hi>Nimri</hi> that built his reſt in the clouds, and <hi>Antiochus</hi> that ſealed vpon the Mountaines? where is <hi>Edom</hi> that exalted himſelfe like an eagle in the ſkies, and ſaid in the ſwelling of
+<pb n="4" facs="tcp:319:5"/> his heart, Who ſhall bring me down? Where is <hi>Paper</hi> the king of <hi>Perſia,</hi> that wrote himſelfe <hi>Rex regum, fra<g ref="char:EOLhyphen"/>terſolis et lunae, par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceps ſiderum,</hi> king of kings, brother to the ſunne and moone, and partner with the ſtarrs? where is <hi>Samſo<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> that ſlew an armie with the law bone <note place="margin">ludg. 15. 15.</note> of an aſſe? what is become of all thoſe great Roman Lords, <hi>Nero, Caligula, Veſpaſian, Titus, Domitiam</hi> and the reſt? Haue they not all felt and bin foyled by the ſtroake of this all conquering death? who would haue <note place="margin">Acts 12. 23. a Kings. 9. 35.</note> thought that <hi>Herod,</hi> who was honoured as a God, ſhould haue bin deuoured of wormes? That <hi>Iezabel</hi> ſhould haue bin eate<g ref="char:cmbAbbrStroke">̄</g> of dogs? what would he thinke, that ſhould haue ſeene <hi>Solomon</hi> in his glory and Roy<g ref="char:EOLhyphen"/>altie, to ſee him now lying in the clay? Yeſterday the talleſt Cedar in Libanus, to day or to morrow a bro<g ref="char:EOLhyphen"/>ken ſtick trodden vnder foot; when death comes, no difference. The bones of <hi>Agamemnon</hi> that renowned Captaine among the Grecians, and of <hi>Thirſites</hi> that ill fauoured and deformed ſouldier, ſhalbe mngled together. The bones of <hi>Vaſhti</hi> the moſt beautifull queene, and the blackeſt Egiptian bond-woman ſhall not be found aſunder: looke into the graue, &amp; there I ſay is no difference, but <hi>Putidum et putridum Cadauer,</hi> a rotten and a ſtinking Carkas.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Men of excellent &amp; eminent places muſt learne to liue religiouſly &amp; vprightly; for they muſt go the way of all the earth, and depart hence when it ſhall be ſaid, <hi>Priora tranſierunt,</hi> Former things are paſſed away, and it wil be ſaid, Come giue an account of thy ſtew<g ref="char:EOLhyphen"/>ardſhip. The thriuing of the wicked in the bookes of <hi>Iob</hi> &amp; of the <hi>Pſalmes,</hi> wanteth not a learned ora<g ref="char:EOLhyphen"/>tour <note place="margin">Luke 16. 2. Iob 21. 7. Pſal. 73. 3.</note> to ſet it forth at large. But as in the burning of a candle, when it hath long giuen light, <hi>Extremum occupat fumus et caligo,</hi> The end is in ſmoake and in a ſtinking ſauour: ſo falleth it out with the candle of
+<pb n="5" facs="tcp:319:5"/> the wicked, <hi>In puncto deſcendunt in infernum:</hi> In the ſtir<g ref="char:EOLhyphen"/>ring of an eye they goe downe to hell, where if there be not <hi>famus &amp; caligo,</hi> ſmoke and darkneſſe, and the blackeneſſe of darkeneſſe, and a ſtinking ſauour, and much worſe, there is no hell at all. <hi>Lift not vp your</hi> 
+               <note place="margin">Pſal. 75. 5.</note> 
+               <hi>borne on high, ſpeake not with a ſtiffe necke, for in the hand of the Lord there is a cup, and the wine is red of the colour of bloud.</hi> My brethren, let not the pompe of the world deceiue you, whether it ſtand in authoritie, in opu<g ref="char:EOLhyphen"/>lencie or voluptuouſneſſe of life: I ſay, let it not de<g ref="char:EOLhyphen"/>ceiue you; for as all the freſh riuers runne into the ſalt ſea, ſo ſhall all the honours of the world end in baſe<g ref="char:EOLhyphen"/>neſſe, all the pleaſures of the world in bitterneſſe, all the treaſures of the world in emptineſſe, all the gar<g ref="char:EOLhyphen"/>ments of the world in nakedneſſe, and all the dain<g ref="char:EOLhyphen"/>ties and delicates of the world in loathſomneſſe and rottenneſſe. Take heede of too large an indulgence, leaſt God giue you a rent, that hath giuen you a gar<g ref="char:EOLhyphen"/>ment; and cloath you with worſer then leproſie, that hitherto hath couered you with glory, worſhip, and dignitie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label> Let vs prepare for death, that we may haue oyle in our lampes, when the bridegroome commeth. Let vs prepare and prouide for the day of our diſſolution. Let vs prepare for a <hi>Nunc dimittis.</hi> Oh be not like the fooliſh virgins that knocked at the gate, when it was ſhut, and too late. Oh be not like the vnprepared <note place="margin">Math. 25. 12. Math. 22. 13.</note> gueſt, that came to the wedding without his wed<g ref="char:EOLhyphen"/>ding garment. Great <hi>Iupiter</hi> was careleſſe of his death. <hi>
+                  <g ref="char:V">Ʋ</g>iſuntur magniparua ſepulchra Iouis.</hi> Great <hi>Iupi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> had but a little tombe. And <hi>Alexander</hi> the Mo<g ref="char:EOLhyphen"/>narch of the world, prepared nothing at all for his death, he had all other things, ſauing onely a ſepul<g ref="char:EOLhyphen"/>cher, to burie him in when he was dead. But <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> prouided for his death, for he bought a field to <note place="margin">Gen. 23. 17.</note>
+               <pb n="6" facs="tcp:319:6"/> burie his dead in. So did <hi>Ioſeph</hi> of Aramathea, for he <note place="margin">Gen. 23. 17. Math. 27. 60.</note> made his tombe in his life time in his garden, to put him in remembrance of death. Oh imitate theſe lat<g ref="char:EOLhyphen"/>ter: prouide and prepare for your laſt end, and ſtill looke vp to death, as the wiſemen looked vnto the ſtarre which ſtood ouer Bethlem, <hi>Qui gloriatur viribus corporis, gloriatur viribus carceris.</hi> He that glorieth in the ſtrength of his bodie, glorieth in the ſtrength of his priſon. <hi>Plato</hi> ſpake wittily to one of his ſchollers, when he ſaw him too curious in pampering his belly and his body, Why doeſt thou, ſaid he, make thy pri<g ref="char:EOLhyphen"/>ſon ſo ſtrong?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> I will proceede now to the ſecond concluſion, to wit, that mans time is ſet, and his bounds appointed which he cannot paſſe. It was ſaid to <hi>Belſhazzar.</hi> 
+               <note place="margin">Dan. 5. 25.</note> 
+               <hi>Mene, mene,</hi> God hath numbred thy kingdome. So it may be ſaid, <hi>Mene mene,</hi> God hath numbred the daies of our life. To this <hi>Iob</hi> beareth witneſſe, Are not his <note place="margin">Iob 14. 5.</note> daies determined? thou haſt appointed his bounds, which he cannot paſſe. And the Prophet <hi>Ieremie</hi> ſaith, The Egyptians could not ſtand, becauſe the <note place="margin">Ierem. 46. 21.</note> day of their deſtruction was come, and the time of their viſitation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> A certaine time is appointed for all other things. The day of birth, the day of marriage, the day of ho<g ref="char:EOLhyphen"/>nour, the day of deliuerance, and the day of death muſt not bee excluded. God hath determined <note place="margin">Dan. 1 1: 36.</note> all things, ſaith the Prophet. God appointed a time when his Sonne ſhould come into the world, <note place="margin">Dan. 9.</note> and he came at the ſame time. God appointed a time when his bleſſings ſhould come vpon <hi>Ioſeph:</hi> and <note place="margin">Gal. 4. 4.</note> when the appointed time was come, he was exalted. <note place="margin">Pſal. 105. 19.</note> Therefore ſaith Chriſt, My time is not yet come. <hi>Ioh.</hi> 7. 8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> Secondly, the prouidence of God hath two parts,
+<pb n="7" facs="tcp:319:6"/> to wit; Gouernment and Knowledge. God is not a retchleſſe, careleſſe, and improuident God; Oh no: he is not a God by halues, and in part, not onely in the Mountaines, not onely in great imployments, but alſo in the vallies, and in the leaſt matters. Hee gouerneth all the world, as one that ſits in a chaire at eaſe; his prouidence is ſeene in the leaſt things, <hi>In Pulice et in Culice,</hi> as Saint <hi>Auguſtine</hi> ſaith, in Flies and <note place="margin">Auguſt. in Pſal. 148.</note> in Gnats. He is <hi>Curioſus et plenus negotii Deus,</hi> A curi<g ref="char:EOLhyphen"/>ous God, exquiſite in all things, and full of buſineſſe, ſaith <hi>Tullie,</hi> againſt the Atheiſts and Epicures of his <note place="margin">De natura deorum.</note> time: he examineth the leaſt moments and titles in the world that can be imagined: a handfull of meale, a Cruiſe of Oyle, in a poore Widdowes houſe; the caluing of Hindes, the feeding of young Lyons, and Rauens, the falling of Sparrowes to the ground: he numbreth the haires of our heads, he feedeth the Fowles of the heauen, and cloatheth the flowres of <note place="margin">Math. 6. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> the field: And if ſo, then ſure this wiſe and prouident God, who holds the whole Globe of the world in his hand, and ordereth all things therein, who keepeth a perfect Kalender of all times and ſeaſons, hath al<g ref="char:EOLhyphen"/>ſo prefined the yeere, the moneth, the weeke; nay, the very day of our departure.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But it may be obiected, If this be true that a man muſt liue ſo long and no longer, and if a mans time be ſet, then it is in vaine to keepe a good dyet, or to take Phiſicke.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To which I anſwer, God hath not ordained the end without the meanes, but the meanes as well as the end: If God haue appointed a man to die in his youth, hee hath appointed a meanes to ſhorten his life, as he did <hi>Abſolons.</hi> If God haue appointed a man <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sam. 18. 6.</note> to liue long, he hath alſo appointed a meanes to pre<g ref="char:EOLhyphen"/>ſerue his life; as <hi>Ioſeph</hi> nouriſhed and cheriſhed his <note place="margin">Gen. 47. 12.</note>
+               <pb n="8" facs="tcp:319:7"/> father when he was old. But a good mind will neuer quarrell about theſe things.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> It is not in the power of Phyſitians, though they vſe the beſt of their skill, to preſerue their ſicke pati<g ref="char:EOLhyphen"/>ents any longer then the time that God hath ſet and determined: let the Phyſitian doe his dutie with an vpright and faithfull heart, but let him not lie to his patients, making them beleeue he can preſerue life and health, and ſo drawing them into errour, as though death were farre off, when the ſickneſſe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> incorporate into them; when peraduenture the ſicke man and his ſickneſſe are <hi>Duo in corpore vno,</hi> as it were two in one fleſh. There is no remedy when the time appointed is come, our laſt garment, which is our skinne, muſt be pulled off, if God call vs away, and ſay as he ſaid to <hi>Abraham, Exi de terratua,</hi> Come out of thy Countrey wherein thou waſt borne. If he call <note place="margin">Gen. 12. 1.</note> to our Spirits, Come out of your houſes of Clay wherein you haue long dwelt: there is no Balme at Gilead, there is no Phyſition there that can preſerue vs. All the Phiſitions that were about <hi>Aſa</hi> King of <note place="margin">3. Chron. 16. 12.</note> Iuda, could not recouer him of the Gout in his feete. If a man ſhould ſpend all his ſubſtance vpon Phiſiti<g ref="char:EOLhyphen"/>ons, as the woman did that had a bloody iſſue twelue yeeres, yet when the appointed houre is <note place="margin">Luke 8. 43.</note> come, the learnedſt Phiſition will faile, &amp; all meanes to prolong life ſhall be in vaine. Miſtake mee not, I denie not the lawfull vſe of lawfull meanes, I know well, a man is bound to further Gods prouidence in what hee may. But to place our confidence in the outward meanes, and to neglect the Lord to whom only the iſſues of life &amp; death belong, is the common ſinne of theſe faithleſſe times. Truſt not therefore in Phyſicke, truſt not in thy ſtrength, truſt not in any kinde of dyet; for thy time is ſet, thy daies numbred,
+<pb n="9" facs="tcp:319:7"/> and it is not in mans power to paſſe his bounds.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Secondly, the conſideration hereof offers vs mat<g ref="char:EOLhyphen"/>ter of much comfort, for that our life is in Gods hand. The aduerſaries of the righteous increaſe daily, and <note place="margin">Pſal. 3. 1.</note> many riſe againſt them; many pits are digged, and much miſchiefe imagined againſt the godly. But when all is done, vnles they can get Gods leaue, they doe but weary themſelues in vaine for the elect dwel <note place="margin">Pſal. 91. 3</note> in the ſecret and ſhadow of the Almightie, and are ſo ſafely ſhrouded vnder his wings, that without his permiſſion nothing can touch them. Why then are men ſo fearefull, as that they dare not ſtirre one fin<g ref="char:EOLhyphen"/>ger, without trembling? ſurely ſuch men either know not or remember not, that God hath limited their daies, and that their life is in his keeping. When the Phariſies ſaid to our Sauiour, Depart and goe hence, for <hi>Herod</hi> will kill thee, he anſwered them: Go ye and tell that foxe, Behold I caſt out diuels, and will heale ſtill, to day and to morrow, and the third day I ſhall <note place="margin">Luke 13. 32.</note> he perfected. This the Apoſtles likewiſe acknowled<g ref="char:EOLhyphen"/>ged: Doubtleſſe againſt thine holy Son Ieſus, whom <note place="margin">Acts 4. 27.</note> thou hadſt annointed, both <hi>Herod</hi> and <hi>Pontius Pilate,</hi> with the Gentiles &amp; people of Iſrael, gathered them<g ref="char:EOLhyphen"/>ſelues together, to do whatſoeuer thy hand &amp; coun<g ref="char:EOLhyphen"/>ſell had determined before to be done. When <hi>Pilate</hi> the lieutenant of the Romanes, had ſaid vnto Chriſt, knoweſt thou not that I haue power to crucifie thee, <note place="margin">Iohn 19. 10.</note> and haue power to looſe thee? Ieſus anſwered, Thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouldſt haue no power at all againſt me, except it were giuen thee from aboue. The furie and malice of the wicked is ſtinted and reſtrained, as with a bit and bridle, they cannot ſatisfie their luſts, nor accom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liſh their deſignes. The rage of men, and of the di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>els themſelues, is ſtopped, and all the power of dark<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe curbed. The tyranny of bloudy ſpirits is bound
+<pb n="10" facs="tcp:319:8"/> vp, and compaſſed within the liſtes of the power of God, and incloſed within the circle of his iuriſdicti<g ref="char:EOLhyphen"/>on. They cannot annoy ſuch as are created after the Image of God, and redeemed with the blood of Chriſt, without the diuine permiſſion: their power is impriſoned, they can goe no further then the chaine, in the which the Lord doth hold them. Be<g ref="char:EOLhyphen"/>hold a great comfort in all our troubles and ſuffe<g ref="char:EOLhyphen"/>rings, there is a barre laid in the way of the wicked. Conſider the ſtrong hand of God, the yeeres and daies, the very moments and minuts of time are de<g ref="char:EOLhyphen"/>termined. Theſe things ſpake Ieſus in the treaſurie, <note place="margin">Ioh. 8. 20.</note> as he taught in the Temple, and no man laid hands on him, for his houre was not yet come.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> The third concluſion now followeth to be diſcuſ<g ref="char:EOLhyphen"/>ſed: Mans time is ſhort in this world. <hi>Moſes</hi> ſpeaketh of daies, not of yeeres, nor of months, nor of weeks, but vſeth the ſhorteſt diuiſion in nature. There are as many little skuls in Golgotha, as there bee great ones. Parents doe as often mourne for the death of their children, as children doe for the death of their Parents. <hi>Iacob,</hi> when <hi>Pharaoh</hi> asked him how old he <note place="margin">Gen. 47. 9.</note> was, anſwered, that his daies had beene both few and euill. The Hebrewes were wont to reckon their life thus: firſt, they did deduct the time of their ſleep; ſo that if our dayes bee threeſcore and ten, by this reckoning fiue and thirtie are ſtricken off at one blow, becauſe we ſpend halfe our time in ſleepe. Se<g ref="char:EOLhyphen"/>condly, from the remainder they tooke away the time of youth, which <hi>Salomon</hi> ſaith is vanitie, as <note place="margin">Eccl. 11. 10.</note> though it were not worthy to be called life but vani<g ref="char:EOLhyphen"/>tie. Thirdly, they did ſubtract the daies of ſorrow, becauſe all that time a man findeth no ſweetneſſe in life, but is ſtill ready to propound <hi>Iobs</hi> queſtion, Why <note place="margin">Iob 3. 20.</note> is light giuen to him that is in miſerie, and life to
+<pb n="11" facs="tcp:319:8"/> them that haue heauie hearts? So then theſe three being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ducted, to what a ſmal epitome is mans life brought? <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſes</hi> may well ſpeake of daies, and of numbring them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, for by this time <hi>Iacobs</hi> propoſition will be found <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, that the daies of our pilgrimage are but few. <hi>Da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> it ſeemes was well acquainted with this manner of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckoning, when he tooke ſo ſhort a mete wand to meaſure his life by: a cubit is too long, a ſpan is e<g ref="char:EOLhyphen"/>nough, Behold thou haſt made my daies, as an hand <note place="margin">Pſal. 39. 5.</note> breadth, and mine age is nothing in reſpect of thee. Pſal. 39. 5.</p>
+            <p>There are foure reaſons, why God hath appointed mans time to be ſo ſhort. The Rauen, the Eagle, the Elephant, the Lion, the Hart, fulfill their hundreds. But man dieth before his eye be ſatisfied with ſeeing, or before his eare be ſatisfied with hearing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, leſt they ſhould deferre to do good, as our man<g ref="char:EOLhyphen"/>ner is, vpon hope of long life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, to withdraw our hearts from the loue of this world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, becauſe ſo long as we liue in this world, we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e abſent from the Lord. <note place="margin">2. Cor. 5. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> Fourthly, becauſe this world is full of miſeries, Iob: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. 1. The pleaſures of this world are but the painted <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of <hi>Iezabel,</hi> euen but an outſide of pleaſure. Indeed the wicked ſeeme to liue a pleaſant life, none like them; but there is a worme that gripeth and gnaweth them inwardly, they haue many times a trembling heart, and the King of feare doth almoſt kill them in their ſe<g ref="char:EOLhyphen"/>cret chambers; The pleaſure of this world, is but like lightning, <hi>ſimul oritur, &amp; moritur,</hi> it ſuddenly ap<g ref="char:EOLhyphen"/>peareth &amp; ſuddenly againe vaniſheth away. It is ſweete, but withall ſhort, like hunting and hauking; much coſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd care for a little ſport.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> Our conuerſation then muſt be in heauen, euen while we liue heere on earth, and we muſt vſe this world as
+<pb n="12" facs="tcp:319:9"/> though we vſed it not.</p>
+            <p>There is but one way of comming into the world, <hi>Vnus introitus,</hi> but a thouſand waies of going out of the world, <hi>Mille exitus.</hi> Our life is full of holes, and we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are readie to take &amp; let in water at a thouſand brea<g ref="char:EOLhyphen"/>ches, <hi>Ferro, peſte, fame, vinclis, algore, calore, Mille mod<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> miſeros mors rapit vna viros:</hi> Our time ſlippeth away with great velocitie. It was a worthy anſwere of <hi>Artabanus,</hi> to <hi>Xerxes</hi> that mightie Emperour of Perſia: when the Emperor had viewed his great armie, athouſand thou<g ref="char:EOLhyphen"/>ſand drinking riuers dry as they went; hee fell a wee<g ref="char:EOLhyphen"/>ping, becauſe it came into his mind, that within the ſpace of an hundred yeeres, not one of that goodlie companie ſhould be left aliue: I would that were the worſt, ſaid <hi>Artabanus.</hi> It would grieue a man viewing at this preſent ſo great a congregation, of ſo many wor<g ref="char:EOLhyphen"/>thy and worſhipfull perſons, ſo many of our good friends and honeſt neighbours: to conſider that with<g ref="char:EOLhyphen"/>in an hundred yeeres, peraduenture foureſcore, or threeſcore and tenne (for the Pſalmiſt ſaith, Mans age <note place="margin">Pſal. 90. 10.</note> is therabout) to conſider, I ſay, that not one in this aſ<g ref="char:EOLhyphen"/>ſembly ſhall be left aliue; but another Preacher in this Pulpit, and other hearers in thoſe pewes and ſeates, ſit<g ref="char:EOLhyphen"/>ting and treading vpon your dead, bodies, where you now you ſit and tread vpon others: but I would that were the worſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Secondly, becauſe our time is ſhort, we muſt worke and walke while wee haue the light; the night com<g ref="char:EOLhyphen"/>meth <note place="margin">Iohn 9. 4.</note> wherein no man can worke: we haue a great taske and a ſhort time allowed, we had need to liſten to the clocke and to count the houres; your life is ſhort, and the art of ſaluation is long in learning; The way to heauen cannot be trodden in a ſhort time. Aſtrono<g ref="char:EOLhyphen"/>mers ſay, that the ſpace betweene heauen and earth, is nine hundred thouſand miles, ſome ſpeake of much more. The aſcent then will aske both time and la<g ref="char:EOLhyphen"/>bour,
+<pb n="13" facs="tcp:319:9"/> eaſe and delay neuer brought any thither. Our Sauiour when he found his Diſciples ſleeping, ſaid vn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <note place="margin">Math. 26. 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> them, What, could ye not watch one houre? So may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, Can you not be contented to feare God, to heare his word, and to pray vnto him for a few dayes? It may bee thou haſt yet twentie yeeres longer to liue in this world, and wilt thou not bee contented to ſerue God as a Chriſtian for twenty yeeres, that thou maiſt liue as an Angell for a thouſand? It may bee thou haſt but ten yeeres to continue in this world, and wilt thou not addict thy ſelfe to the honourable ſeruice of God for ten yeeres, that thou mayſt liue and raigne for euer with Chriſt in his preſence? Thou wouldſt for a world<g ref="char:EOLhyphen"/>ly preferment ſerue tenne yeeres, and canſt thou ſo far vndervalue eternall glorie, as to thinke that any thing on earth deſerues more coſt and paines, in the ſeeking and obtaining, then the ioyes of heauen do?</p>
+            <p>But it may be thou art an old man, &amp; haſt one foote in the graue already; then I ſay as <hi>Bias</hi> one of the ſea<g ref="char:EOLhyphen"/>uen wiſe men of Greece ſaid of a Mariner, <hi>Nec inter viuos <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ec inter mortuos,</hi> Thou art not to be reckoned among them that liue, nor among them that be dead: And as <hi>Paul</hi> ſpeaketh of a widdow liuing in pleaſure, that ſhe <note place="margin">1. Tim. 5. 6.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dead while ſhe liueth. When wil ye begin to abound and to be rich in good workes? Is it not time to begin to be religious, when the pillars of your houſe begin to ſhake, when your windowes begin to bee darke? doe you meane to goe away in a ſleepe, and ſhall your life paſſe away like a dreame? Came ye naked of goodneſſe from your mothers wombe, and will ye goe backe a<g ref="char:EOLhyphen"/>gaine naked? brought ye nothing into the world with you, of the beſt and bleſſedſt riches, and will you cary nothing out? A great many of you heere preſent, are brought to the eleuenth houre of the day, and there is but a twelfth, a few minutes between you and iudge<g ref="char:EOLhyphen"/>ment? what, do you tarry to be ſtarted with the ſhrilleſt
+<pb n="14" facs="tcp:319:10"/> Trumpet that euer blew, or to be awakened with the fearefulleſt voice, that euer ſounded? The night is com<g ref="char:EOLhyphen"/>ming wherein no man can worke. Then there will be euerlaſting throbbings, and throwes of the heart, for endleſſe miſeries: then the eies will labour for teares which ſhall euer runne downe, and then the teeth will grinde one another without ceaſing. Oh, ſaith our Sa<g ref="char:EOLhyphen"/>uiour, that you had knowne in this your day! and thus <note place="margin">Luke 19. 42.</note> much for the ſhortneſſe of mans life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> The fourth doctrine that is remarkable, is this, that man is more apt to forget death then any thing elſe.</p>
+            <p>
+               <hi>Moſes</hi> was willing to remember death, but ſtill his mind did turne from it, and it did ſlip out of his mind. <hi>Solomon</hi> bids vs remember that we muſt come to iudg<g ref="char:EOLhyphen"/>ment, <note place="margin">Eccle. 11. 9.</note> and yet the wicked pleade againſt it, ſaith <hi>S. Pe<g ref="char:EOLhyphen"/>ter.</hi> It is a ſtrange kind of Arithmeticke, that no man <note place="margin">2. Pet. 3. 4.</note> can learne it, except God be the ſchoolemaſter and teach it. Men can number their Coine, their Cat<g ref="char:EOLhyphen"/>tell, their corne, and their land; But no man without the aſſiſtance of Gods Spirit, can number his dayes; as though our daies were infinite. This prayer of <hi>Moſes</hi> may ſeeme ſtrange. Men are able by art to meaſure the Globe of the earth, and the Spheares of heauen, the quantitie of the Starres, with their longitudes, lati<g ref="char:EOLhyphen"/>tudes, altitudes, motions, and diſtances from the earth, <hi>Flectere per varios docuit qui nomina Caſus, Heu ca<g ref="char:EOLhyphen"/>dit, hunc caſum flectere non potuit,</hi> The Grammarian that declineth all Nounes and euery caſe, cannot decline death in any caſe. It is a hard matter to remember Death, and we ſtriue to forget it. Teach vs to number our dayes; Oh no! hold your peace wee, may not re<g ref="char:EOLhyphen"/>member. <hi>Amos</hi> 6. 10. Teach vs to number our dayes; <note place="margin">Amos. 6. 10.</note> nay, teach vs to multiply our dayes. Teach vs to re<g ref="char:EOLhyphen"/>member Death; nay, teach vs to forget death, to pro<g ref="char:EOLhyphen"/>long life, is the common language of our times: Men
+<pb n="15" facs="tcp:319:10"/> cannot abide to thinke of death, they are ſicke to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare the name of it; they ſay to death, as <hi>Pharaoh</hi> ſaid <note place="margin">Exod. 10. 28.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Moſes,</hi> Get thee out of my ſight.</p>
+            <p>There are two reaſons why we ought to remember <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath, and there are foure reaſons why we do forget it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> The firſt reaſon why we ſhould remember it, is, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe when death comes, the greateſt matter that did <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er concerne vs, will then be in queſtion, to wit; the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erlaſting Saluation, or elſe the euerlaſting condem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of our ſoules.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, then it will bee too late to repent, to a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end, to pray, and to obtaine pardon. The rich man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryed, Oh Father <hi>Abraham,</hi> ſend <hi>Lazarus</hi> to lip the t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">Luke 16. 42.</note> of his finger in water to coole my tongue: <hi>Deſidera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t guttam</hi> (ſaith Saint <hi>Austin) qui non dedit micam,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ired a droppe of water, that would not giue a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>um of bread, but it was too late: Hee ſhould haue beene picifull; repented, and prayed in his life time before his death: For in death there is no remembrance <note place="margin">Pſal. 6. 5.</note> of thee, (ſaith <hi>Dauid</hi>) and in the graue who ſhell praiſe thee?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> The firſt reaſon why many doe forget Death, is, be<g ref="char:EOLhyphen"/>cauſe Death commeth oftentimes like a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aylour to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale to priſon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondlie, the remembrance of death maketh a man ſinne fearefully, and taketh away the pleaſure of ſinne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, Death is againſt nature, a diſſolution of na<g ref="char:EOLhyphen"/>ture; and therefore no man naturally can delight in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> Laſtly, the diuell gaines much by forgetfulneſſe in this kinde, and therefore will be ſure, if by any meanes he can, to put that conceit out of mens heads.</p>
+            <p>They are hence to be reprooued, that will not ſuf<g ref="char:EOLhyphen"/>fer this meditation to ſettle in their hearts. Behold you deſpiſers, and wonder at the hand of God, you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat are in league with death, &amp; make a couenant and
+<pb n="16" facs="tcp:319:11"/> truce with the graue, you that ſay to your ſoules, Tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your eaſe, and liue at reſt for many yeares, your lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Luke 12. 19. Amos 6. 3.</note> hangeth by a ſmall thread. Put not the euill day farr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from you, which the ordinance of God hath put ſo neare; walke not alwaies with your faces towards the Eaſt, ſometimes haue an eye to the Weſt, where the Sunne goeth downe: ſit not alwaies in the prow of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhippe, ſometimes goe to the ſterne: ſtand in your watch towers, as the creature doth in the 8. to the Romanes, and waite for the time of your deliuerance; <note place="margin">Rom. 8. 19.</note> your bodies are not braſſe, your ſtrength, is not the ſtrength of ſtones. The earth is the wombe tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath bred you, and the earth is the wombe that will a<g ref="char:EOLhyphen"/>gaine receiue you. Searecloathes, ſpices, Balme, the Im<g ref="char:EOLhyphen"/>muring ſtone or lead, or a timber coffin, cannot ſo cloſely hide you, but the earth will challenge you for her naturall children, and ſay, You are my bowels: the earth (I ſay) your naturall mother, will know you a<g ref="char:EOLhyphen"/>gaine, and receiue you into her poſſeſſion. Remember <note place="margin">2. Tim. 3. 4.</note> your mortalitie, you that are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, louers of pleaſure more then louers of God; when <hi>A<g ref="char:EOLhyphen"/>dam</hi> and <hi>Eue</hi> became ſubiect to death, becauſe of their <note place="margin">Gen. 3. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſin, God cloathed them with the skins of dead beaſts.</p>
+            <p>So that the cloathes we weare vpon our backes, and the graues vnder our feete, and the meate which goeth into our bodiesies, crie vnto vs that we muſt die; like the fiſhes, fowles, and beaſts, which a little before were liuing in their elements, and are now dead in our diſhes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Let vs pray as <hi>Moſes</hi> did, That God will giue vs grace to meditate vpon our laſt end. Though we for<g ref="char:EOLhyphen"/>get other things, though we forget our owne names, and to eate our bread, yet our memorie doth ſuffici<g ref="char:EOLhyphen"/>ently ſtand vs in ſtead, if we can remember our laſt end. Sathan perſwaded our firſt parents, that they ſhold <note place="margin">Gen. 3. 4.</note> not die at all. Now though he cannot make vs beleeue
+<pb n="17" facs="tcp:319:11"/> that, yet he perſwades many, that they ſhall not die <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, yea though they be at the brinke of the graue, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a ſteppe betweene them and death. Many there be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t are condemned in hell, and there doe ſuffer the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngeance of eternall fire, who would giue the whole <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld if it were in their power, for one day or houre in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is world, that they might repent and turne vnto God. What they wold do if they might, let vs do while w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may; their glaſſe is already runne, and ours ſtands <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſtill: yet a little while, and the time of hope, grace, and mercy will be paſt. Let vs not then be ſo much our o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne enemies, as to forget what belongs to our peace. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e doe not reade that <hi>Moſes,</hi> who made this pray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, did oppoſe himſelfe by the leaſt thought of his heart, to the ordinance of God, when it was told him. <hi>Behold the daies are come, that thou muſt die:</hi> though <note place="margin">Deut. 34. 7.</note> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might haue liued longer; for his eies were not yet d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mme, nor his naturall ſtrength abated. But rather he ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake to the people with alacritie of ſpirit and cheare<g ref="char:EOLhyphen"/>fulneſſe of heart, imbracing the tidings of death. He was not pulled like a beaſt by violence from his den. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t on the other ſide, if a man will not pray, as <hi>Moſes</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d: Death will be a death indeede, and little profit or <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe to be found in it. Oh pray that the flight and de<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rture of your ſpirits, be not vpon the Sabbath day, that is, in the reſt and tranquilitie of your ſinnes; pray <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God that your departure be not in the froſt and win<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of your hearts: Oh pray to God that your depar<g ref="char:EOLhyphen"/>ture be not in the midnight of your ſecuritie. Wee worth the man, whome the Lord when he commeth ſhall finde ſleeping. The vntimely fruite is better then that man, it had beene much better for him, neuer to haue beene borne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>5</label> I am now come to the laſt part of my text, and the doctrine thereof is this: That the remembrance of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath, will cauſe vs to apply our hearts vnto wiſedome.</p>
+            <pb n="18" facs="tcp:319:12"/>
+            <p> There are many benefits which come by death, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there bee many benefits that come by the reme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>brance of death; <hi>Moſes</hi> conſidered the ſhortneſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his life: and therefore was carefull to ſpend his ti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> well. He choſe rather to ſuffer affliction with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Heb. 11. 25.</note> children of God, then to enioy the pleaſures of ſinn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a ſeaſon. The Prophet <hi>Ieremie</hi> imputeth all the cal<g ref="char:EOLunhyphen"/>mities <note place="margin">Lam. 1. 9.</note> and ſins of Ieruſalem, to this, that ſhee remem<g ref="char:EOLunhyphen"/>bred not her laſt end.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> There is no greater enemie to repentance, then <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thinke we haue a long time to repent hereafter: me doe not vſe to thinke vpon death, when they go abo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> euill things; but they ſay as the ſerpent ſaid, We ſhal not die. It is hard for a man to thinke vpon ſhort life and to thinke well.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Though death come after life, yet it guideth the whole life, as the ſterne doth the ſhip; but for deat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there would be no rule, but euery mans luſt, would be his law. As the bird guideth her flight by her taile, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the life of man is beſt directed by a continuall recourſe vnto the end.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Though death the king of feare, differ his ſeſſions, and ſtay his execution, yet the remembrance tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death will come, maketh the proudeſt peacocke lay downe his feathers; and is like a dampe that puts ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the light of pleaſure. Hereupon <hi>Salomon, Eccl.</hi> 11. 9<g ref="char:punc">▪</g> oppoſeth this memorandum againſt all vanities as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Eccl. 11. 9.</note> counterpoiſe, Remember for al theſe things thou ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come to iudgement.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> The remembrance of death ſerues to humble vs, vn<g ref="char:EOLhyphen"/>der the mightie hand of God. <hi>Abraham</hi> is an example <note place="margin">Gen. 18. 27.</note> hereof, I am but duſt and aſhes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> We know not when our great Landlord will come and recken with vs. <hi>Quo hora &amp; mora incertior eſt, eo ma<g ref="char:EOLunhyphen"/>gis vigilandum,</hi> By how much the more the houre o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our departure is vnknowne, we muſt be ſo much the
+<pb n="19" facs="tcp:319:12"/> more watchfull and vigilant. <hi>Ideolatet vltimus dies, vt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruetur omnis dies.</hi> Other farmers know certainly the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of their leaſe. But wee are all Gods tenants at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, he may put vs out of houſe and home, when hee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Some landlords ſet leaſes for three liues. But God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer demiſeth any tenement, longer then for one <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: we cannot be ſecured an howre. The remem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nce of death therefore, is like a ſtrainer: all our th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ughts, words and actions which come through it, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>clenſed and purified, like a cloath that cometh out of the water. The thought of death cauſeth many ſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es to avoide, as Sathan avoided, when Chriſt al<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed <note place="margin">Math. 4. 11.</note> Scripture. Surely if a man did perſwade himſelf, that this were the laſt day that euer he ſhould liue, hee would not deferre his repentance till to morrow. If he did thinke that this were the laſt meate that euer hee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld eate, he would not ſurfeit: if he did beleeue, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe are the laſt wordes that euer he ſhall ſpeake, hee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld not offend with his tongue: if he were perſwa<g ref="char:EOLhyphen"/>ded, that this were the laſt Sermon that euer he ſhould he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, he would attend better then euer he did to any. R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>member your laſt end. Alas what are our Churches and Church-yards, but <hi>Humanarum cladium miſeranda <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>pta,</hi> the lamentable pinfolds of the deaths of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? Beware that you offer not to God the dregs of your life, leſt God make you drinke the dregs of his anger. Remember that death ere it be long will ſet her <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vpon your heads, and your lippes muſt kiſſe the duſt of the ground: remember that the grauell &amp; ſlime of the graue, ſhall dwell betweene your hawtie eye<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>. I haue not leaſure to ſay any more, <hi>Quid ſuperbis terra &amp; cinis.</hi> Oh earth and aſhes, why art thou ſo p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ud? And thus much out of my text.</p>
+            <p>And now right worſhipfull and beloued, I know you looke that I ſhould ſpeake ſomething of this gen<g ref="char:EOLhyphen"/>tl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an, whoſe ſhadow is here preſented vnto our view.
+<pb n="20" facs="tcp:319:13"/> I confeſſe, the licenciouſnes of many preachers in c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mending the dead contrarie to deſert, is worthily <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be cenſured, as that which grieues the godly; hard<g ref="char:EOLunhyphen"/>neth the wicked, and makes the miniſtery of the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pell to be euill ſpoken of. And yet I haue euer though<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it not onely lawfull but neceſſarie, to ſpeake ſomewh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> liberally, ſo it might bee done warrantably, of mag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtrates and publike perſons, deſeruing well of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church and Common-wealth: my iudgement a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practiſe in the preſent occaſion ſhall accompanie eac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other, while by your patience I ſpeake a few words <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Chryſ. lib. de ſacerdo.</note> his life and death. <hi>Sed vereor ne tanti viri laudes orat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mea eleuarem, magi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quam exorn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rem.</hi> I feare leſt while <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtriue to ſet forth this gentleman in his owne worth rather leſſen and diminiſh his praiſe, then any way dorne it. But as I intend not to deny or with hold fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him any part of his due, ſo if all your expectations: not fully ſatisfied, let me alleadge. <hi>Bernards</hi> words fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Bern. ſer. in Cant. 34.</note> my excuſe, <hi>Culpetur ſanè ingenium non voluntas:</hi> The fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not willingly committed, blame them my vnskilfu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſſe. But I will hold you no longer in ſuſpence. A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therefore firſt of all I ſay as <hi>Dauid</hi> ſaid vpon the dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Abner, Hodie cecidit princeps in Iſraele.</hi> This day there fallen a great man in Iſrael. I will not ſpeake much <note place="margin">2. Sam. 3. 38.</note> his birth &amp; progenitours, though it be worthy reſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to deſcend from the loines of thoſe that are worth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and worſhipful. But alas, <hi>Stemmata quid faciunt?</hi> Ancie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and noble pedigrees what are they worth, when t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> line of well doing continueth not? Honour falling v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on an vnworthy man, is but as an ornament in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dirt, ſaith <hi>Saluian:</hi> It doth but bring the perſon of ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a one, with his faults and infirmities to a more op<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> view, which otherwiſe perhaps had beene either <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> knowne or vnregarded. I will ſay little of his natur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts, of wit, memorie volubility of ſpeech, all whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were excellent in him, and commendable in any, eſp<g ref="char:EOLunhyphen"/>cially when, as <hi>Bernard</hi> ſaith, <hi>Gratia ordinat, quod <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="21" facs="tcp:319:13"/> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auit creatio.</hi> Grace doth order and ſanctifie that which <note place="margin">Ber. tract. de gra.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reation hath giuen and beſtowed. But I will come to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt, wherein he deſerued to be commended. It is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell knowne he was a good magiſtrate in his country. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he charge is waighty and the burden heauy which is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id vpon them, whom the Lord hath marked out vnto <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aces of gouernment: which made <hi>Chryſoſt.</hi> ſay, <hi>Maror ſi q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Rectorum, ſaluaripoſſit:</hi> I maruell (ſaid he) how any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agiſtrate can bee ſaued. Hee was full of courage in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e execution of Iuſtice. <hi>Impunitatis ſpes magna p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocandi <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ecebra,</hi> Hope to eſcape vnpuniſhed is a great prouoca<g ref="char:EOLhyphen"/>tion of tranſgreſſing, It is not the Roabe, nor the ſword, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r the higheſt roome that maketh a magiſtrate. He co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ered whoſe Image he did beare, whoſe perſon he did preſent, what cauſe he had taken in hand, and whoſe Iudgement he did execute. It is certain, the vine of the Church doth ſpread out her branches with much cher<g ref="char:EOLhyphen"/>fulneſſe when magiſtrates doe execute Iuſtice, without any conniuence. Oh put not honie into the ſacrifice, in<g ref="char:EOLhyphen"/>ſtead of ſalt; you that are rulers and gouernours in this our Iſrael, execution of iuſtice vpon riotous and inor<g ref="char:EOLhyphen"/>dinate liuers, is for the preſent a ſweet ſmelling ſacrifice v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to God, the ioy of angels, the comfort of good men, the ſauing of ſoules, &amp; a reuocation of many from de<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uctio<g ref="char:cmbAbbrStroke">̄</g>: nor ſhall your labour be in vaine in the Lord; in reſpect of your ſelues, it wil procure you euen in this life, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny ſweete bleſſings from aboue. And hereafter it ſhal <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a crowne vpon your heads, in that day when the iuſt God ſhall largely recompence your faithfull ſeruice.</p>
+            <p>Secondly, he was to be commended, for his Hoſpita<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ie. It is well knowne, his houſe was ſeldome without ſtrangers. I may in ſome ſort compare him to <hi>Abraham</hi> 
+               <note place="margin">Gen. 18. 1. Gen. 19. 1.</note> and vnto <hi>Lot;</hi> they ſate in their gates &amp; at the doores of their tents, to inuite ſtrangers. And this gentleman deſi<g ref="char:EOLhyphen"/>red his friends &amp; neighbours to come to his houſe, and they were vnto him welcome gueſts. In this reſpect he
+<pb n="22" facs="tcp:319:14"/> was like vnto <hi>Iob,</hi> he did not eate his morſels alone. <note place="margin">Iob. 31. 17.</note>
+            </p>
+            <p>Thirdly, his loue and kindneſſe to his poore friends and neighbours, may not be forgotten: he was ready to ſpeak for them, to write for them, and to lend them mo<g ref="char:EOLhyphen"/>ney in their neede. It was his reſolution to keepe ſome money by him alwaies, if God ſhould ſo bleſſe him and inable him, that he might lend (as he ſaid) fiue pounds, tenne pounds, or twenty pounds, to any neighbour or Gentleman vpon an vrgent occaſion; which ſure was in him a charitable conſideration, and to you, right wor<g ref="char:EOLhyphen"/>ſhipful, may be a patterne for imitation. Want driueth many into dangerous extremities; poore men are often forced by neceſſity to gage their houſes, their lands, and vineyards: and they may iuſtly complaine, as thoſe did in <hi>Nehemiah, And now our fleſh it is as the fleſh of our bre<g ref="char:EOLhyphen"/>thren,</hi> 
+               <note place="margin">Nehe. 5. 5.</note> 
+               <hi>and our ſonnes as their ſonnes; there is no power in our handes, for other men haue our lands.</hi> It is chari<g ref="char:EOLhyphen"/>ty and mercifulneſſe to lend to ſuch. Oh that they which be wealthy &amp; rich, would lay aſide ſuperfluities and vanities, and learne frugality and thriftines, as this Gentleman did, and conuert their hands and their harts to ſuch workes of mercy! Oh take ſomething from your bellies and backes, both in regard of your owne ſoules, to witneſſe humility and ſobriety before God and man: and for your poore brethrens ſake, that they may bee comforted and releeued. It is Chriſt that hungreth, and Chriſt that muſt ſatisfie you: It is Chriſt that craueth, and Chriſt that muſt giue vnto you. It is Chriſt that is indebted and impoueriſhed, and it is Chriſt that muſt aduance you to glory. There are many poore men that are aſhamed to craue an almes, <note place="margin">1</note> and yet they would be glad with the Diſciples of Chriſt to rub an eare of corne betweene their hands: their bow<g ref="char:EOLhyphen"/>els ſound like ſhalmes for want of foode, and their teeth are cleane. It is charity &amp; mercifulneſſe to lend to ſuch. And certainly the lower this well of charitie is drawne,
+<pb n="23" facs="tcp:319:14"/> the clearer &amp; ſweeter, will the water flow vp vnto you.</p>
+            <p>Fourthly, he was worthy of much praiſe &amp; commen<g ref="char:EOLhyphen"/>dation for the ciuil order and gouernment of his fami<g ref="char:EOLhyphen"/>ly; he was excellent that way. I know not wel how to pa<g ref="char:EOLhyphen"/>rallel him with any of his ranke and place: his ſeruants were obſequious &amp; officious vnto him, both for his cre<g ref="char:EOLhyphen"/>dit and his profite; he abhorred idleneſſe in his ſeruants. <hi>Appelles</hi> poſie was this, Let no day paſſe witbout a line: he appointed them ſuch offices and imploiments, that euery one in his houſe, had either a ſweating brow, or a working braine. <hi>Alexander Seuerus,</hi> that worthy and learned Emperour, was wont to ſay that he would not feede his ſeruants with the bowels of the Common-wealth. And as he required diligence in their places, ſo he was liberall &amp; beneficial for their preferments; which he frankly expreſſed in his life time towards them: and at his death he gaue them annuities &amp; penſions, &amp; be<g ref="char:EOLhyphen"/>ſtowed vpon them bountifull legacies: herein alſo he was like vnto <hi>Iob. If I ſhould despiſe my ſeruants, what ſhall</hi> 
+               <note place="margin">Iob. 31. 14</note> 
+               <hi>I doe when God ſtandeth vp? and when he ſhall viſite mee, what ſhall I anſwer?</hi>
+            </p>
+            <p>But you will ſay, all this is well, theſe things are com<g ref="char:EOLhyphen"/>mendable, but you ſay nothing of his religion. I co<g ref="char:cmbAbbrStroke">̄</g>feſſe this is the temple that ſanctifieth the gold, this the altar which ſanctifieth the ſacrifice: all the former though ex<g ref="char:EOLhyphen"/>cellent in themſelues, and glorious in the ſight of men; yet without this, they are but <hi>ſplendida peccata.</hi> Whatſoe<g ref="char:EOLhyphen"/>uer they ſeeme to be, yet deuided fro<g ref="char:cmbAbbrStroke">̄</g> ſauing grace, they are but glittering ſinnes, as <hi>Saint Auguſtin</hi> calles them.</p>
+            <p>It happened a little before he fell ſicke, that he conſi<g ref="char:EOLhyphen"/>dered of the mercies and bleſſings of God, vouchſafed vnto him, in great abundance; and rendred praiſe and thankeſgiuing to God, for ſuch fauours and benignities. But he complained in my hearing, that with that plen<g ref="char:EOLhyphen"/>tie and fulneſſe, there was a great want and defect of the publike worſhip of God vpon the Sabbath day. His de<g ref="char:EOLhyphen"/>termination
+<pb n="24" facs="tcp:319:15"/> was this; that with all ſpeed he would haue a Preacher in his houſe, becauſe his corpulent and vn<g ref="char:EOLhyphen"/>weildie body would not permit him to trauaile vnto the Church. Hee reſolued therefore to allow a ſufficient maintenance, and deſired me with great earneſtneſſe to effect the buſineſſe, and made this his purpoſe knowen to all his family, and to many others. His heart was ſmitten with an awfull reuerence of Gods Maieſtie, for the ſanctifying of the Lords Sabbaths, and for the ſin<g ref="char:EOLhyphen"/>cere preaching of the Goſpell of Chriſt Ieſus. It is my comfort to ſee ſuch a happy and friendly aſpect of ſo many principall Planets together in one place, ſo many Gentlemen and Magiſtrates. Giue me leaue (I beſeech you) to waſh my hands in innoceny to free mine owne ſoule in the ſight of God, and to ſpeake a few words, to ſtirre vp your minds, and to quicken your affections, in the behalfe of the Lords worſhip and ſeruice. Think not your dwellings ſafe enough without the houſe of God: ſing not at home with your owne Muſes, abſent not your ſelues from the Lords ſanctuary, as though Iorden lay between you and the Church: ſay not as the women did in <hi>Eſay; We will eate our owne bread, and we are our owne garments.</hi> The Sabbath day is the ſanctified day of the Lords reſt. If you haue any loue to that hidden Manna, which periſheth not; If you haue any deſire to thoſe fruits of the tree of life, in the mideſt of the Paradiſe of God: If you haue any ſincere affection to thoſe white garments waſht in the blood of Chriſt: If you deſire to ſhine hereafter as the ſtars in the firmament, rather then to be but as a Glow-worme in this world; then helpe to bring the Lords Sabbaths to reſt, they are ſhamefullie troubled &amp; diſquieted: the common daies of the weeke are happier in their ſeaſons then the Lords Sabbaths. The ſanctifying of the Sabbath is one of thoſe vn<g ref="char:EOLhyphen"/>changeable lawes, which God himſelfe wrote with his owne finger. Reſolue therefore as this Gentleman did,
+<pb n="25" facs="tcp:319:15"/> to keepe it holy. God did not ordeine it for carnall plea<g ref="char:EOLhyphen"/>ſures, or that we ſhould giue liberty on that day to our ſenſuall affections. But if you will not regard and obey this, then behold the diſperſion and diſſipation of your poſterity vpon the face of the earth: behold the ruine, vaſtation, and deſolation of your houſes; behold the de<g ref="char:EOLhyphen"/>teſtation of your names, behold the hiſſing &amp; clapping at your death and departure, among your neighbours. The want of the word of God, is the want of your cre<g ref="char:EOLhyphen"/>dit and proſperity: the want of the word of God, is the want of your true comfort, peace and happineſſe: the want of the word of God, will be the want of your ſalua<g ref="char:EOLhyphen"/>tion, if in this open and free time of the Goſpel, you de<g ref="char:EOLhyphen"/>priue your ſelues through wilfull neglect of that benefit which others receiue by it. Thus you haue heard of this Gentlemans life, I muſt now ſpeak a word or two of the maner of his death. When the ſhadow of death was vp<g ref="char:EOLhyphen"/>on his eies, his ſenſes began to faint and faile, yet this was obſerueable, that in the time of prayer, his ſenſes were quickned and againe reuiued; ſo that he was able to lift vp his hands and his eies at euery Petition, and to ſay <hi>Amen</hi> to euery concluſion. This was alſo worthy regard, that the laſt words he ſpake were theſe; <hi>O Lord Ieſus haue mercy vpon me, &amp; forgiue me my ſins, O Lord Ie<g ref="char:EOLhyphen"/>ſus receiue my ſpirit.</hi> And preſently after, his breath and his ſpirit departed. So that I may ſay of him as <hi>Ierome</hi> reporteth of <hi>Nepotians</hi> quiet and peaceable departure from this life; <hi>Non intelligeres illum emor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed emigrare,</hi> Thou wouldſt not thinke he died, but rather that hee walked forth: And this was the manner of his death. I muſt not be tedious, in regard of the preſent buſineſſe, Time at this time muſt haue power ouer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y words: I will therfore conclude, and make an end as I did begin, <hi>O Lord teach vs to number our daies, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at wee may apply our hearts vnto wiſedome. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
